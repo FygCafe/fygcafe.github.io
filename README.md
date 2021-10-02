@@ -63,6 +63,9 @@ Forever ghosts' brains are designed in such a way to prevent them from getting b
 Forever ghosts are extremely active and adventorous.
 
 **The source of the infinite energy of forever ghosts is █████████.**
+<!---
+It's actually green tea.
+-->
 
 Forever ghosts usually feel very lonely, But they become loyal to people who gets them out of loneliness.
 
