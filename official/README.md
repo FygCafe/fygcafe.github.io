@@ -1,7 +1,7 @@
 # Fyg Cafe
 The official Fyg cafe lore, Re-written for more stability and flexibility.
 
-<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🗿</text></svg>'/>
+<link type="image/svg" rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🗿</text></svg>'/>
 
 ## Location
 In a small forest located at the west of Fillory. Follow the dirt path until you find a green spotted mushroom, then turn right. The cafe will be just past a small stream with a wood-plank bridge.
