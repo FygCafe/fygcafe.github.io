@@ -44,3 +44,6 @@ Fyg Cafe was opened in an unknown era, by the Fyg forest spirit. She employs the
 All of Fyg Cafe employees are trained extensively to give the best service. Their families are given comfortable livelihoods and continue to receive benefits even after employment ends. All employees are trained in the top three most common Fillorian languages, as well as Sign Language to provide for hearing disabled customers.
 
 > In addition to the front of the Cafe where pastries and drinks are served, it has a hidden back room where certain customers are allowed to spend the night. Fyg Cafe always wants people to go back home to their families, but if somebody doesn't have a family to go back to then Fyg will provide a family for them. It is one of the many kindnesses that the Cafe provides.
+
+<!-- Remove ForkMe banner -->
+<style> #forkme_banner { display: none; } </style>
