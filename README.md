@@ -91,4 +91,4 @@ This topic is very important, And skipping over it may cost you your life. When 
 # If you read this document until here, You might have woken up a forever ghost. Cover yourself with ghost silicon and seek shelter.
 
 <!-- Remove ForkMe banner -->
-<style> #forkme-banner { display: none; } </style>
+<style> #forkme_banner { display: none; } </style>
