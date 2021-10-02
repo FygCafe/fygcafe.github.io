@@ -31,11 +31,11 @@ Gregor found out that he had a passion for pastry products, And now he enjoys pa
 ### Le Honk the goose
 A goose farmer that likes tomatoes and they try to sell tomatoes to the customers once in a while.
 
-### JKE ( Jayden, Kile and Emily )
+### JKE ( Jayden, Kyle and Emily )
 Three sloths who communicate with the cafe through one laptop.
-**Jayden: A sweet tooth and a leader**
-**Emily: A lovely sloth with a tea addiction that is comparable to Fyg's tea addiction.**
-**Kyle: A calm and caring sloth that makes pastry products.**
+1. **Jayden: A sweet tooth and a leader**
+2. **Emily: A lovely sloth with a tea addiction that is comparable to Fyg's tea addiction.**
+3. **Kyle: A calm and caring sloth that makes pastry products.**
 
 ### diamond the Dog
 diamond lived with is owner in a melon farm and goes into the forest when his owner is having a checkup at the hospital.
