@@ -20,6 +20,13 @@ Hello there, adventurer! You look quite hungry and thirsty, Would you like to ha
  - Taco
  - Burrito
  - Rather suspicious pile of smelly stuff ( It's not for sale, Dammit! )
+ - Tomato sauce ( Only for the boney pals )
+
+### Food items
+ - Vegetables
+ - Fruits
+ - Meat
+ - Tomato sauce
 
 ### Items
  - A piece of ghost silicon
