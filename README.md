@@ -1,6 +1,7 @@
 # FygLore
-The (un)official documentation for Fyg Cafe's lore. This lore book is unofficial and is not yet approved by the Fyg.<br>
-**Wanna join us? Try [Clicking here](https://disboard.org/server/891856235840819200)**
+The (un)official documentation for Fyg Cafe's lore. This lore book is unofficial and is not yet approved by the Fyg.<br><br>
+Wanna join us? Try [Clicking here](https://disboard.org/server/891856235840819200)<br>
+Want to check the official, Rewritten ( unedited ) lore? Maybe you should [Click here](https://minecraftpublisher.github.io/FygLore/official/)
 
 # WARNING: Classified information ahead.
 
