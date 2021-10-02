@@ -3,6 +3,8 @@ The (un)official documentation for Fyg Cafe's lore. This lore book is unofficial
 Wanna join us? Try [Clicking here](https://disboard.org/server/891856235840819200)<br>
 Want to check the official, Rewritten ( unedited ) lore? Maybe you should [Click here](https://minecraftpublisher.github.io/FygLore/official/)
 
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%2>🗿</text></svg>"/>
+
 # WARNING: Classified information ahead.
 
 ## The hidden rooms
