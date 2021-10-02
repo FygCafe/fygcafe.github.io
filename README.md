@@ -1,7 +1,8 @@
 # FygLore
 The (un)official documentation for Fyg Cafe's lore. This lore book is unofficial and is not yet approved by the Fyg.<br><br>
 Wanna join us? Try [Clicking here](https://disboard.org/server/891856235840819200)<br>
-Want to check the official, Rewritten ( unedited ) lore? Maybe you should [Click here](https://minecraftpublisher.github.io/FygLore/official/)
+Want to check the official, Rewritten ( unedited ) lore? Maybe you should [Click here](https://minecraftpublisher.github.io/FygLore/official/)<br>
+Interested in an official menu for me, Houston the wandering trader? We recommend you instantly [Click here](https://minecraftpublisher.github.io/FygLore/houston-menu/)!
 
 <link type="image/svg" rel="shortcut icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🗿</text></svg>'/>
 
