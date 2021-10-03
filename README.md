@@ -35,7 +35,7 @@ Gregor found out that he had a passion for pastry products, And now he enjoys pa
 ### Captain Le Honk the goose
 A goose captain who sails the seven seas with his crew for the great seven tomatoes, He loves to sell you tomatoes too. Arrrr!
 
-### JKE ( Jayden, Kyle and Emily )
+### sloth ( Jayden, Kyle and Emily )
 Three sloths who communicate with the cafe through one laptop.
 1. **Jayden: A sweet tooth and a leader**
 2. **Emily: A lovely sloth with a tea addiction that is comparable to Fyg's tea addiction.**
