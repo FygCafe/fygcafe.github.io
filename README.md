@@ -32,8 +32,8 @@ Jchen was created by a mage, And since the mage didn't finish creating Jchen, He
 ### (U) Gregor the Forest Ent
 Gregor found out that he had a passion for pastry products, And now he enjoys pastry products from the cafe regurarly.
 
-### Le Honk the goose
-A goose farmer that likes tomatoes and they try to sell tomatoes to the customers once in a while.
+### Captain Le Honk the goose
+A goose captain who sails the seven seas with his crew for the great seven tomatoes, He loves to sell you tomatoes too. Arrrr!
 
 ### JKE ( Jayden, Kyle and Emily )
 Three sloths who communicate with the cafe through one laptop.
