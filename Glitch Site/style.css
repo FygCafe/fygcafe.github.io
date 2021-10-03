@@ -1,0 +1,24 @@
+#logo {
+  height: 200px;
+  cursor: default;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+
+details[open=false] summary {
+    margin-bottom: 10px;
+}
+
+
+ul,
+ol {
+  margin-block-end: 0;
+  margin-block-start: 0;
+}
