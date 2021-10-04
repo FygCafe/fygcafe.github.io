@@ -95,10 +95,10 @@
       return fixCodeBlocks(replaceMarkdown('\n' + str + '\n')).trim();
     }
     function parseMD(url, element) {
-      let markdown = fetch(url).then(response => {
+      fetch(url).then(response => {
         let html = parseMarkdown(markdown)
         element.innerHTML = html
-      }
+      })
     }
 
     setTimeout(function () {
