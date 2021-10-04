@@ -102,7 +102,7 @@
     }
     // Function for HTTP GET requests via JavaScript
     async function httpGetAsync(theUrl, callback) {
-      let response = await fetch(url)
+      let response = await fetch(theUrl)
       callback(response)
     }
 
