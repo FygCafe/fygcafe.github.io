@@ -96,8 +96,10 @@
     }
     function parseMD(url, element) {
       fetch(url).then(response => {
-        let html = parseMarkdown(response.text())
-        element.innerHTML = html
+        response.text().then(text => {
+          let html = parseMarkdown()
+          element.innerHTML = html
+        })
       })
     }
 
