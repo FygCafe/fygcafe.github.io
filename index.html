@@ -95,30 +95,16 @@
       return fixCodeBlocks(replaceMarkdown('\n' + str + '\n')).trim();
     }
     function parseMD(url, element) {
-      httpGetAsync(url, function (data) {
-        const markdown = parseMarkdown(data)
-        element.innerHTML = markdown
-      })
-    }
-    // Function for HTTP GET requests via JavaScript
-    async function httpGetAsync(theUrl, callback) {
-      let response = await fetch(theUrl)
-      callback(response)
+      let markdown = fetch(url).then(response => {
+        let html = parseMarkdown(markdown)
+        element.innerHTML = html
+      }
     }
 
     setTimeout(function () {
       document.body.innerHTML += '<div class="lel">Hi</div>'
-      // Hey bro
-      // Hey
-      // Psst
-      // This is the line
-      // Yes it is
-      // It parses MD with that
-      // hahaha
+      // Parse markdown
       parseMD('https://fygcafe.github.io/README.md', document.querySelector('.lel'))
-      // The line is above here
-      // Right there
-      // Between the grey things
     }, 1000)
   </script>
 
