@@ -2,6 +2,7 @@
 
 <head>
   <title>FygCafe</title>
+  <link rel="stylesheet" href="https://fygcafe.github.io/watercss.css">
 </head>
 
 <body>
@@ -95,42 +96,32 @@
       return fixCodeBlocks(replaceMarkdown('\n' + str + '\n')).trim();
     }
     function parseMD(url, element) {
-      httpGetAsync(url, function (data) {
-        const markdown = parseMarkdown(data)
-        element.innerHTML = markdown
+      fetch(url).then(response => {
+        response.text().then(text => {
+          let html = parseMarkdown(text)
+          element.innerHTML = html
+        })
       })
-    }
-    // Function for HTTP GET requests via JavaScript
-    async function httpGetAsync(theUrl, callback) {
-      let response = await fetch(url)
-      callback(response)
     }
 
     setTimeout(function () {
       document.body.innerHTML += '<div class="lel">Hi</div>'
-      // Hey bro
-      // Hey
-      // Psst
-      // This is the line
-      // Yes it is
-      // It parses MD with that
-      // hahaha
+      // Parse markdown
       parseMD('https://fygcafe.github.io/README.md', document.querySelector('.lel'))
-      // The line is above here
-      // Right there
-      // Between the grey things
     }, 1000)
   </script>
 
-  <!-- Houston's AWESAMCSS -->
+  <!-- Houston's AWESAMCSS
   <style>
     body {
       background-color: #778D7A;
       color: #DBE1DC;
       margin-left: 10vw;
       margin-right: 10vw;
+      font-family: Arial, Helvetica, sans-serif;
     }
   </style>
+-->
 </body>
 
 </html>
