@@ -747,6 +747,7 @@ details {
   padding: 10px 10px 0;
   margin: 1em 0;
   border-radius: 6px;
+  border: 1px solid var(--background);
   overflow: hidden;
 }
 
@@ -774,11 +775,6 @@ summary {
   margin: -10px -10px 0;
   cursor: pointer;
   outline: none;
-}
-
-summary:hover,
-summary:focus {
-  text-decoration: underline;
 }
 
 details > :not(summary) {
