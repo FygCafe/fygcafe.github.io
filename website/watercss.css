@@ -762,6 +762,10 @@ details[open] summary {
   margin-bottom: 10px;
 }
 
+details[open=false] summary {
+  margin-bottom: 0 ;
+}
+
 summary {
   display: list-item;
   background-color: #efefef;
