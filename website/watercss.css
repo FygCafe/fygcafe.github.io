@@ -2,21 +2,21 @@
  * Forced light theme version
  */
 :root {
-  --background-body: #778D7A;
+  --background-body: #778d7a;
   --background: #647566;
   --background-alt: #6f8572;
-  --selection: #A5CBAA;
-  --text-main: #B48067;
-  --text-bright: #261b16;
+  --selection: #4d5c4f;
+  --text-main: #dbe1dc;
+  --text-bright: #ecefec;
   --text-muted: #b5a198;
-  --links: #2281c9;
+  --links: #ecb093;
   --focus: #0096bf;
-  --border: #DBE1DC;
+  --border: var(--text-main);
   --code: #87604e;
   --animation-duration: 0.2s;
   --button-base: #c9b8af;
-  --button-hover: #DBE1DC;
-  --scrollbar-thumb: rgb(124, 196, 133);
+  --button-hover: var(--text-main);
+  --scrollbar-thumb: #7cc485;
   --scrollbar-thumb-hover: var(--button-hover);
   --form-placeholder: #abccb1;
   --form-text: #362117;
