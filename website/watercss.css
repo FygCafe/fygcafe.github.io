@@ -1,7 +1,6 @@
 /**
  * Forced light theme version
  */
-
 :root {
   --background-body: #778D7A;
   --background: #647566;
@@ -16,7 +15,7 @@
   --code: #87604e;
   --animation-duration: 0.2s;
   --button-base: #c9b8af;
-  --button-hover: #9e918a;
+  --button-hover: #DBE1DC;
   --scrollbar-thumb: rgb(124, 196, 133);
   --scrollbar-thumb-hover: var(--button-hover);
   --form-placeholder: #abccb1;
@@ -177,7 +176,7 @@ q {
   font-style: italic;
 }
 
-blockquote > footer {
+blockquote>footer {
   font-style: normal;
   border: 0;
 }
@@ -210,8 +209,8 @@ mark {
   color: #000;
 }
 
-a > code,
-a > strong {
+a>code,
+a>strong {
   color: inherit;
 }
 
@@ -622,7 +621,7 @@ time {
   font-size: 1em;
 }
 
-pre > code {
+pre>code {
   padding: 10px;
   display: block;
   overflow-x: auto;
@@ -755,16 +754,16 @@ details[open] {
   padding: 10px;
 }
 
-details > :last-child {
+details> :last-child {
   margin-bottom: 0;
 }
 
-details[open] > summary {
+details[open]>summary {
   margin-bottom: 10px;
 }
 
-details[open=false] > summary {
-  margin-bottom: 0 ;
+details[open=false]>summary {
+  margin-bottom: 0;
 }
 
 summary {
@@ -777,7 +776,7 @@ summary {
   outline: none;
 }
 
-details > :not(summary) {
+details> :not(summary) {
   margin-top: 0;
 }
 
@@ -798,7 +797,7 @@ dialog {
   padding: 10px 30px;
 }
 
-dialog > header:first-child {
+dialog>header:first-child {
   background-color: #efefef;
   background-color: var(--background);
   border-radius: 6px 6px 0 0;
@@ -810,13 +809,13 @@ dialog > header:first-child {
 dialog::-webkit-backdrop {
   background: #0000009c;
   -webkit-backdrop-filter: blur(4px);
-          backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
 }
 
 dialog::backdrop {
   background: #0000009c;
   -webkit-backdrop-filter: blur(4px);
-          backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
 }
 
 footer {
@@ -827,11 +826,12 @@ footer {
   color: var(--text-muted);
 }
 
-body > footer {
+body>footer {
   margin-top: 40px;
 }
 
 @media print {
+
   body,
   pre,
   code,
