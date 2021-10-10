@@ -92,6 +92,7 @@ const replaceMarkdown = function(str) {
 const parseMarkdown = function(str) {
   return fixCodeBlocks(replaceMarkdown('\n' + str + '\n')).trim();
 }
+
 function parseMD(url, selector) {
   let element = document.querySelector(selector)
   fetch(url).then(response => {

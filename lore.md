@@ -2,7 +2,6 @@
 
 Small forest West of Cadena, named Willow Forest. Follow the dirt path until you find a green spotted mushroom, then turn right. The cafe will be just past a small stream with a wood-plank bridge.
 
-
 ### About us
 
 Fyg Cafe was opened in an unknown era, by the Fyg forest spirit. She employs the local residents, usually red foxes or hedgehogs since they have difficulty finding employment elsewhere. She hand-sews linen and cotton pinafore aprons for the employees, letting them choose a custom embroidered pocket design.
@@ -10,7 +9,6 @@ Fyg Cafe was opened in an unknown era, by the Fyg forest spirit. She employs the
 Here is the pinafore apron design, the apron will come in this design in a light eggshell color and include the custom embroidered design on the left breast.
 
 The fabric used in the aprons is sustainably sourced and pays local porcupine linen/cotton farmers and gives them large baskets of berries, greens, and seeds as well as lush farmland in return for their assistance. In the Century of Turning (roughly 1500 in human years), the Erethizon family made a tribute to Fyg by shaping a young Willow tree into a statue of Fyg as it grew older. This statue is now the longest-living Willow tree in Cadena and can be found roughly five miles away from Fyg Cafe.
-
 
 ### Our Employees
 
@@ -46,21 +44,23 @@ Linked is a map of the Willow Forest. It is between the rain forest and the beac
 
 ![Map of Willow Forest](https://media.discordapp.net/attachments/892111124378550354/895090880959111168/New_Piskel_1_1_1_2.png)
 
-
 ### Roles
 
 #### Customers
+
 Customers are the lifeblood of Fyg Cafe. Usually calm and friendly, the customers of Fyg Cafe converse with one another and order items from the menu. They are a part of the Fyg Cafe family and treated with the utmost respect. If a customer is rude, they will usually be asked to leave the Cafe nicely. Fyg Cafe prides itself on a calm and friendly atmosphere for people to collaborate and converse, and customers have to abide by those rules. All issues can always be resolved.
 
 #### Employees
+
 Employees consist of Pastry/Tea/Boba Experts. They each perfect their skills in their respective field to properly serve the customers and residents. Though, for example, if a Tea Expert is unavailable, a Pastry Expert is capable of taking over for them but it isn't preferred. All of the employees are trained in the top 3 Cadenian languages to help people from all backgrounds no matter the language barrier. 
 
 #### Farmers
+
 Farmers assist Fyg by dropping off fresh ingredients to the Cafe in exchange for healthy crops and other various gifts from the forest spirit. Even though Fyg is a forest spirit, she isn't capable of everything. Every once in a while farmers will come to visit the Cafe as customers, but usually, they enjoy reaping the benefits of the forest spirits magic. Even the smallest donations are appreciated, however, Fyg is not all-powerful and can only use limited power based on the donation amount. 
 
 #### Residents
-Residents live in the back of the Cafe, since they have no family to go back to Fyg Cafe allows them to have their own rooms in either the back of the Cafe or in tree-dorms near the Cafe. Residence is usually not permanent, since Fyg gives them many opportunities to move away and start their lives again. However for people who are having difficulty and need assistance, the Cafe will always provide.
 
+Residents live in the back of the Cafe, since they have no family to go back to Fyg Cafe allows them to have their own rooms in either the back of the Cafe or in tree-dorms near the Cafe. Residence is usually not permanent, since Fyg gives them many opportunities to move away and start their lives again. However for people who are having difficulty and need assistance, the Cafe will always provide.
 
 ### About the Kingdom of Cadena
 
