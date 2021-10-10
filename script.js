@@ -104,4 +104,4 @@ function parseMD(url, element) {
 
 
 // Parse markdown
-parseMD('https://fygcafe.github.io/README.md', document.querySelector('#lore'))
+parseMD('https://fygcafe.github.io/lore.md', document.querySelector('#lore'))
