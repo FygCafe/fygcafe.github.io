@@ -45,7 +45,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-button {
+button .button {
   transition:
     background-color 0.1s linear,
     border-color 0.1s linear,
@@ -250,7 +250,7 @@ input {
   outline: none;
 }
 
-button {
+button .button {
   color: #1d1d1d;
   color: var(--form-text);
   background-color: #efefef;
@@ -295,7 +295,7 @@ select {
   outline: none;
 }
 
-button {
+button .button {
   background-color: #d0cfcf;
   background-color: var(--button-base);
   padding-right: 30px;
@@ -691,7 +691,7 @@ tbody tr:nth-child(even) {
   background-color: var(--background);
 }
 
-tbody tr:nth-child(even) button {
+tbody tr:nth-child(even) button .button {
   background-color: #f7f7f7;
   background-color: var(--background-alt);
 }
