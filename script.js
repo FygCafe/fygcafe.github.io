@@ -92,16 +92,15 @@ const replaceMarkdown = function(str) {
 const parseMarkdown = function(str) {
   return fixCodeBlocks(replaceMarkdown('\n' + str + '\n')).trim();
 }
-function parseMD(url, element) {
+function parseMD(url, selector) {
+  let element = document.querySelector(selector)
   fetch(url).then(response => {
     response.text().then(text => {
       let html = parseMarkdown(text)
-      element.innerHTML = "<summary>Official Lore</summary>" + html
+      element.innerHTML = html
     })
   })
 }
 
-
-
-// Parse markdown
-parseMD('https://fygcafe.github.io/lore.md', document.querySelector('#lore'))
+// Parse markdown format:
+// parseMD('/lore.md', '#lore')
