@@ -40,10 +40,12 @@ Tybalt is a red fox who is a design expert and helps Fyg renovate the Cafe and m
 
 All of Fyg Cafe's employees are trained extensively to give the best service. Their families are given comfortable livelihoods and continue to receive benefits even after employment ends. All employees are trained in the top three most common Fillorian languages, as well as Sign Language to provide for hearing disabled customers.
 
-#### In addition to the front of the Cafe where pastries and drinks are served, it has a hidden back room where certain customers are allowed to spend the night. Fyg Cafe always wants people to go back home to their families, but if somebody doesn't have a family to go back to then Fyg will provide a family for them. It is one of the many kindnesses that the Cafe provides.
+In addition to the front of the Cafe where pastries and drinks are served, it has a hidden back room where certain customers are allowed to spend the night. Fyg Cafe always wants people to go back home to their families, but if somebody doesn't have a family to go back to then Fyg will provide a family for them. It is one of the many kindnesses that the Cafe provides.
+
 Linked is a map of the Willow Forest. It is between the rain forest and the beach, perfectly placed to have access to a wide variety of ingredients. One of our regulars, a sloth, drew up this map to help other customers find their way. While Cadena is a blossoming town filled with many people and animals alike, the Willow Forest is peaceful and caters more towards the calm-spirited.
 
 ![Map of Willow Forest](https://media.discordapp.net/attachments/892111124378550354/895090880959111168/New_Piskel_1_1_1_2.png)
+
 
 ### Roles
 
@@ -59,6 +61,7 @@ Farmers assist Fyg by dropping off fresh ingredients to the Cafe in exchange for
 #### Residents
 Residents live in the back of the Cafe, since they have no family to go back to Fyg Cafe allows them to have their own rooms in either the back of the Cafe or in tree-dorms near the Cafe. Residence is usually not permanent, since Fyg gives them many opportunities to move away and start their lives again. However for people who are having difficulty and need assistance, the Cafe will always provide.
 
+
 ### About the Kingdom of Cadena
 
-Since I may have gone overboard with Cadena lore, I created an entirely new page for it which is linked here: [click me!!](https://www.notion.so/Kingdom-of-Cadena-64cf51d733764aea89a15b309811c307)
+Since I may have gone overboard with Cadena lore, I created an entirely new page for it which is linked [here](https://www.notion.so/Kingdom-of-Cadena-64cf51d733764aea89a15b309811c307).
